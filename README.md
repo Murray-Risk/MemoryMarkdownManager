@@ -1,7 +1,7 @@
-MMM — The Markdown Memory Manager
+#MMM — The Markdown Memory Manager#
 A governed working‑memory subsystem for sovereign, local‑first cognitive architectures.
 
-Overview
+##Overview##
 MMM is a file‑based working‑memory manager designed for offline, privacy‑first AI systems that rely on Markdown as their primary substrate for ideation, provenance, and long‑term knowledge storage. It formalizes the “thinking loop” that naturally emerges when using LLMs for iterative reasoning: summarize, compress, reload, continue.
 
 Instead of relying on large context windows or vector databases, MMM provides a deterministic, auditable, and constitutionally governed memory layer that sits between long‑term Markdown corpora and the model’s short‑term context.
